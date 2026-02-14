@@ -1,0 +1,9 @@
+Faculty,target(web),time comsuming (Hour),target while cpu peak(web),cpu usage %,date
+"vet,vettech","44,7","8, 4",33,43,
+"soc, lib,vet","35,42,44","21,45,8",26,54,feb 6  10.36
+"กองกี,กองกาย,llldo","5,4,5","1,10,1",16,26,feb 8 23.13
+"Inf, food, กองกาย","7,11,4","1,2,10",17,26,feb 9 9.13
+"Grad, forest","22,32","5,18",36,46,feb 9 12.36
+"sis,forest,sa","3,32,26","2,18,7",13,39,feb 10 11.08
+kps,197,21,30,55,feb 11 11.55
+"kps,src","197,99","21,9",44,47,feb 11 15.17
