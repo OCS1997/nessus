@@ -1,4 +1,4 @@
-hostname	host_ip	host_fqdn	start	end	duration(seconds)
+hostname,	host_ip	host_fqdn	start	end	,duration(seconds)
 online.rabiesonedata.ku.ac.th	158.108.65.21		Thu, 05 Feb 2026 08:44:48 GMT	Thu, 05 Feb 2026 08:50:34 GMT	346
 bi.rabiesonedata.ku.ac.th	158.108.65.22		Thu, 05 Feb 2026 08:44:48 GMT	Thu, 05 Feb 2026 08:50:30 GMT	342
 gis.rabiesonedata.ku.ac.th	158.108.65.23		Thu, 05 Feb 2026 08:44:48 GMT	Thu, 05 Feb 2026 09:04:18 GMT	1170
