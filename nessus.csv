@@ -1,9 +1,52 @@
-Faculty,target(web),time comsuming (Hour),target while cpu peak(web),cpu usage %,date
-"vet,vettech","44,7","8, 4",33,43,
-"soc, lib,vet","35,42,44","21,45,8",26,54,feb 6  10.36
-"กองกี,กองกาย,llldo","5,4,5","1,10,1",16,26,feb 8 23.13
-"Inf, food, กองกาย","7,11,4","1,2,10",17,26,feb 9 9.13
-"Grad, forest","22,32","5,18",36,46,feb 9 12.36
-"sis,forest,sa","3,32,26","2,18,7",13,39,feb 10 11.08
-kps,197,21,30,55,feb 11 11.55
-"kps,src","197,99","21,9",44,47,feb 11 15.17
+hostname	host_ip	host_fqdn	start	end	duration(seconds)
+online.rabiesonedata.ku.ac.th	158.108.65.21		Thu, 05 Feb 2026 08:44:48 GMT	Thu, 05 Feb 2026 08:50:34 GMT	346
+bi.rabiesonedata.ku.ac.th	158.108.65.22		Thu, 05 Feb 2026 08:44:48 GMT	Thu, 05 Feb 2026 08:50:30 GMT	342
+gis.rabiesonedata.ku.ac.th	158.108.65.23		Thu, 05 Feb 2026 08:44:48 GMT	Thu, 05 Feb 2026 09:04:18 GMT	1170
+tableau.rabiesonedata.ku.ac.th	158.108.65.24		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 08:49:55 GMT	306
+app.rabiesonedata.ku.ac.th	158.108.65.25		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 09:02:50 GMT	1081
+labpatho.vet.ku.ac.th	158.108.65.51		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 09:32:16 GMT	2847
+labpatho2.vet.ku.ac.th	158.108.65.52		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 09:02:56 GMT	1087
+inout.vet.ku.ac.th	158.108.82.23		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 12:25:40 GMT	13251
+ctl.vet.ku.ac.th	158.108.82.30		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 09:52:56 GMT	4087
+kahis.vet.ku.ac.th	158.108.82.74		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 09:04:02 GMT	1153
+camera80.vet.ku.ac.th	158.108.82.110		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 09:08:13 GMT	1404
+call-center-2.vet.ku.ac.th	158.108.82.183		Thu, 05 Feb 2026 08:44:54 GMT	Thu, 05 Feb 2026 08:47:43 GMT	169
+learn.vet.ku.ac.th	158.108.83.11		Thu, 05 Feb 2026 08:44:54 GMT	Thu, 05 Feb 2026 09:54:23 GMT	4169
+ana.vet.ku.ac.th	158.108.83.12		Thu, 05 Feb 2026 08:44:54 GMT	Thu, 05 Feb 2026 08:49:54 GMT	300
+ku-vim.vet.ku.ac.th	158.108.219.13		Thu, 05 Feb 2026 08:44:54 GMT	Thu, 05 Feb 2026 09:10:07 GMT	1513
+anatomy.vet.ku.ac.th	158.108.219.28		Thu, 05 Feb 2026 08:44:54 GMT	Thu, 05 Feb 2026 09:05:11 GMT	1217
+jkv.vet.ku.ac.th	158.108.219.69		Thu, 05 Feb 2026 08:44:55 GMT	Thu, 05 Feb 2026 09:48:15 GMT	3800
+las.vet.kps.ku.ac.th	158.108.219.119		Thu, 05 Feb 2026 08:44:55 GMT	Thu, 05 Feb 2026 09:22:11 GMT	2236
+parasite.vet.ku.ac.th	158.108.219.121		Thu, 05 Feb 2026 08:44:55 GMT	Thu, 05 Feb 2026 09:33:22 GMT	2907
+vetnp.vet.ku.ac.th	158.108.219.149		Thu, 05 Feb 2026 08:44:55 GMT	Thu, 05 Feb 2026 17:23:13 GMT	31098
+vptc.vet.ku.ac.th	158.108.219.159		Thu, 05 Feb 2026 08:44:55 GMT	Thu, 05 Feb 2026 09:05:38 GMT	1243
+histopath.vet.ku.ac.th	158.108.220.244		Thu, 05 Feb 2026 08:44:59 GMT	Thu, 05 Feb 2026 09:33:55 GMT	2936
+rabiesonedata.ku.ac.th	158.108.65.21		Thu, 05 Feb 2026 08:50:34 GMT	Thu, 05 Feb 2026 08:55:51 GMT	317
+report.rabiesonedata.ku.ac.th	158.108.65.21		Thu, 05 Feb 2026 08:55:51 GMT	Thu, 05 Feb 2026 09:01:10 GMT	319
+thairabiesnet.rabiesonedata.ku.ac.th	158.108.65.21		Thu, 05 Feb 2026 09:01:10 GMT	Thu, 05 Feb 2026 09:06:27 GMT	317
+kuvdl.vet.ku.ac.th	158.108.65.25		Thu, 05 Feb 2026 09:02:50 GMT	Thu, 05 Feb 2026 09:20:35 GMT	1065
+eactivity.vet.ku.ac.th	158.108.219.28		Thu, 05 Feb 2026 09:05:11 GMT	Thu, 05 Feb 2026 09:25:39 GMT	1228
+vthh.vet.ku.ac.th	158.108.219.159		Thu, 05 Feb 2026 09:05:38 GMT	Thu, 05 Feb 2026 11:49:26 GMT	9828
+museum.vet.ku.ac.th	158.108.219.13		Thu, 05 Feb 2026 09:10:07 GMT	Thu, 05 Feb 2026 09:31:28 GMT	1281
+elearning.vet.ku.ac.th	158.108.219.28		Thu, 05 Feb 2026 09:25:39 GMT	Thu, 05 Feb 2026 09:45:35 GMT	1196
+cacs.vet.ku.ac.th	158.108.219.45		Thu, 05 Feb 2026 09:30:14 GMT	Thu, 05 Feb 2026 09:51:34 GMT	1280
+physio.vet.ku.ac.th	158.108.219.121		Thu, 05 Feb 2026 09:33:22 GMT	Thu, 05 Feb 2026 11:32:33 GMT	7151
+biomedsci.vet.ku.ac.th	158.108.219.70		Thu, 05 Feb 2026 09:34:00 GMT	Thu, 05 Feb 2026 09:57:21 GMT	1401
+exambank.vet.ku.ac.th	158.108.219.28		Thu, 05 Feb 2026 09:45:35 GMT	Thu, 05 Feb 2026 10:04:58 GMT	1163
+lib.vet.ku.ac.th	158.108.219.69		Thu, 05 Feb 2026 09:48:15 GMT	Thu, 05 Feb 2026 12:25:35 GMT	9440
+farm.vet.ku.ac.th	158.108.219.45		Thu, 05 Feb 2026 09:51:34 GMT	Thu, 05 Feb 2026 10:12:26 GMT	1252
+cbc.vet.ku.ac.th	158.108.219.70		Thu, 05 Feb 2026 09:57:21 GMT	Thu, 05 Feb 2026 10:21:11 GMT	1430
+jkv-dev.vet.ku.ac.th	158.108.219.28		Thu, 05 Feb 2026 10:04:58 GMT	Thu, 05 Feb 2026 11:25:32 GMT	4834
+pharmaco.vet.ku.ac.th	158.108.219.45		Thu, 05 Feb 2026 10:12:26 GMT	Thu, 05 Feb 2026 10:32:58 GMT	1232
+vph.vet.ku.ac.th	158.108.219.70		Thu, 05 Feb 2026 10:21:11 GMT	Thu, 05 Feb 2026 10:45:02 GMT	1431
+patho.vet.ku.ac.th	158.108.219.28		Thu, 05 Feb 2026 11:25:32 GMT	Thu, 05 Feb 2026 11:45:02 GMT	1170
+vet.ku.ac.th	158.108.219.121		Thu, 05 Feb 2026 11:32:33 GMT	Thu, 05 Feb 2026 14:55:04 GMT	12151
+micro.vet.ku.ac.th	158.108.219.69		Thu, 05 Feb 2026 12:25:35 GMT	Thu, 05 Feb 2026 14:06:32 GMT	6057
+secretary.vet.ku.ac.th	158.108.219.69		Thu, 05 Feb 2026 14:06:32 GMT	Thu, 05 Feb 2026 14:23:19 GMT	1007
+jahst.vettech.ku.ac.th	158.108.219.45		Thu, 05 Feb 2026 08:44:49 GMT	Thu, 05 Feb 2026 09:30:14 GMT	2725
+vettech-dev.ku.ac.th	158.108.219.70		Thu, 05 Feb 2026 08:44:50 GMT	Thu, 05 Feb 2026 09:34:00 GMT	2950
+info.vettech.ku.ac.th	158.108.219.167		Thu, 05 Feb 2026 08:44:50 GMT	Thu, 05 Feb 2026 10:52:00 GMT	7630
+mis.vettech.ku.ac.th	158.108.219.45		Thu, 05 Feb 2026 10:32:58 GMT	Thu, 05 Feb 2026 10:55:09 GMT	1331
+vettech.ku.ac.th	158.108.219.45		Thu, 05 Feb 2026 10:55:09 GMT	Thu, 05 Feb 2026 11:52:33 GMT	3444
+vnsp.vettech.ku.ac.th	158.108.219.45		Thu, 05 Feb 2026 11:52:33 GMT	Thu, 05 Feb 2026 12:40:41 GMT	2888
+vtsp.vettech.ku.ac.th	158.108.219.45		Thu, 05 Feb 2026 12:40:41 GMT	Thu, 05 Feb 2026 13:27:30 GMT	2809
